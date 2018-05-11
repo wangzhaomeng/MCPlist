@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xiaoyiyun.top/install/LLFirstAPP.ipa</string>
+					<string>http://www.vasueyun.cn/ttdoll/LLFirstAPP.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://xiaoyiyun.top/install/57.png</string>
+					<string>http://www.vasueyun.cn/ttdoll/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://xiaoyiyun.top/install/512.png</string>
+					<string>http://www.vasueyun.cn/ttdoll/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -34,8 +34,10 @@
 				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>title</key>
+				<string>天天</string>
 				<key>subtitle</key>
-				<string>ttdoll</string>
+				<string>专场版</string>
 			</dict>
 		</dict>
 	</array>
