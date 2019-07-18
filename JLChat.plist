@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.vasueyun.cn/ttdoll/LLFirstAPP.ipa</string>
+					<string>http://www.vasueyun.cn/mcapp/JLChat/JLChat.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.vasueyun.cn/ttdoll/57.png</string>
+					<string>http://www.vasueyun.cn/mcapp/JLChat/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.vasueyun.cn/ttdoll/512.png</string>
+					<string>http://www.vasueyun.cn/mcapp/JLChat/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.vasue.catchdoll</string>
+				<string>com.cqaizhe.baobaoquan</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>1.1.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>天天</string>
+				<string>刷圈精灵</string>
 				<key>subtitle</key>
-				<string>专场版</string>
+				<string></string>
 			</dict>
 		</dict>
 	</array>
